@@ -11,7 +11,7 @@ I´m currently 29 years old, and fullstack developer student.
 - 📝 LinkedIn: [My page](https://www.linkedin.com/in/carolmarquesrr/)
 
 
-I have always focused on performing. I enjoy working and see it as constant learning. 
+:white_heart: I have always focused on performing. I enjoy working and see it as constant learning. 
 
 
 
