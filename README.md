@@ -21,20 +21,19 @@ I´m currently 29 years old, and fullstack developer student.
 
  **Objectives:**
 
-<!-- TODO-IST:START -->
   
 :computer: Become fullstack developer
 
 🌸 Do a great job! I am always looking for an opportunity as a developer to grow!
 
-<!-- TODO-IST:END -->
 
 
 
-<!--
+
+
 **carolmarquesrr/carolmarquesrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently studing on Bytes4future/ RunCode School
 - 📫 How to reach me: @Carolmarquesrr on social midia
 - ⚡ Fun fact: I have a cat named Rengar, and he is named after a game called League of Legends, which I play a lot! :heart_eyes_cat:
--->
+
