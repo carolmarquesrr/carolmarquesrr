@@ -36,6 +36,5 @@ I´m currently 29 years old, and fullstack developer student.
 - ⚡ Fun fact: I have a cat named Rengar, named because of the game League of Legends (That I play a lot!) :heart_eyes_cat:
 
 
-[![Carolmarquesrr](https://github-readme-stats.vercel.app/api?username=Carolmarquesrr&show_icons=true&theme=radical)](https://github.com/Carolmarquesrr/)
 
 
