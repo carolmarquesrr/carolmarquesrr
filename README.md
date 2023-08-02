@@ -1,39 +1,33 @@
-### Hi there 👋 
+Hello!
 
-I´m currently 29 years old, and fullstack developer student.
-  
+My name is Carol! 👋
 
-- I´m currently learning
- HTML, CSS, JavaScript, React, SQL
+👩‍💻 I'm a full-stack developer and a cybersecurity student!
 
-- 📫 Contact me: [Caroline Marques](mailto:carolinemarques.civil@gmail.com);
+Currently, I'm learning:
 
-- 📝 LinkedIn: [My page](https://www.linkedin.com/in/carolmarquesrr/)
+- HTML, CSS, JavaScript, React, SQL, Ruby, Git/Github
 
+📫 Contact me: [Caroline Marques](mailto:carolinemarques.civil@gmail.com) 😉
 
-:white_heart: I have always focused on performing. I enjoy working and see it as constant learning. 
+📝 LinkedIn: [My page](https://www.linkedin.com/in/carolmarquesrr/) 🌐
 
+📍 Location: Porto, Portugal 🇵🇹
 
-
-
-
+🚀 I'm actively seeking my first opportunity in IT! 🛠️
 
 
- **Objectives:**
+I'm looking forward to talking with you! 😄🎉
 
-  
-:computer: Become fullstack developer
+- 📍 Porto, Portugal
 
-🌸 Do a great job! I am always looking for an opportunity as a developer to grow!
+- 🗣️ PT, EN, ES
 
+:white_heart: 
 
 
 
-
-
-- 🔭 I’m currently studing on Bytes4future/ RunCode School
-- 📫 How to reach me: @Carolmarquesrr on social midia
-- ⚡ Fun fact: I have a cat named Rengar, named because of the game League of Legends (That I play a lot!) :heart_eyes_cat:
+- ⚡ I have a cat named Rengar, named because of the game League of Legends (That I play a lot!) :heart_eyes_cat:
 
 
 
