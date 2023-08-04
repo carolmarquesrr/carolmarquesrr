@@ -12,10 +12,7 @@ Currently, I'm learning:
 
 📝 LinkedIn: [My page](https://www.linkedin.com/in/carolmarquesrr/) 🌐
 
-📍 Location: Porto, Portugal 🇵🇹
-
 🚀 I'm actively seeking my first opportunity in IT! 🛠️
-
 
 I'm looking forward to talking with you! 😄🎉
 
