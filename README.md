@@ -2,10 +2,9 @@ Hello!
 
 My name is Carol! 👋
 
-👩‍💻 I'm a Junior Systems Analyst and full-stack developer Student, and I'm also mother of a chubby cat called Rengar! :heart_eyes_cat: 
+👩‍💻 I'm a Junior Systems Analyst and full-stack developer, and I'm also mother of a chubby cat called Rengar! :heart_eyes_cat: 
 
-Currently, I'm learning programming:
-- HTML, CSS, JavaScript, React, SQL, Ruby 
+- HTML, CSS, JavaScript, React, SQL, Ruby and Power BI 
 
 📫 Contact me: [Caroline Marques](mailto:carolinemarques.civil@gmail.com) 😉
 
