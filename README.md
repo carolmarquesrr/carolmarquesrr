@@ -4,7 +4,7 @@ My name is Carol! 👋
 
 👩‍💻 I'm a Junior Systems Analyst and full-stack developer, and I'm also mother of a chubby cat called Rengar! :heart_eyes_cat: 
 
-- HTML, CSS, JavaScript, React, SQL, Ruby and Power BI 
+- HTML, CSS, JavaScript, React, SQL and and Power BI 
 
 📫 Contact me: [Caroline Marques](mailto:carolinemarques.civil@gmail.com) 😉
 
@@ -12,7 +12,7 @@ My name is Carol! 👋
 
 
 
-Feel free to reach out to me for discussions on data analytics, programming, or even to play League of Legends! 😄🎉 
+Feel free to reach out to me for discussions on data analytics, testing, programming, or even to play League of Legends! 😄🎉 
 
 - 📍 Porto, Portugal
 
